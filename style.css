@@ -1,0 +1,11 @@
+.bg-image{
+    background-image: url(images/01_home_banner-1-1400x598.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+}
+
+
+.floatyfloat {
+    max-width: 50vh;
+}
